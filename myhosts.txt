@@ -1,0 +1,2 @@
+[web]
+'IP_Of_Managed_Node' ansible_ssh_user='Username Of Ur Managed Node'  ansible_ssh_pass='Password Of Ur Managed Node'
